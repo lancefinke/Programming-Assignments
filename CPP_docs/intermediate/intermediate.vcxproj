@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="classes.cpp" />
+    <ClCompile Include="enum.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="references.cpp" />

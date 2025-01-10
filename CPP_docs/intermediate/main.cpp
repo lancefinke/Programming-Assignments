@@ -9,7 +9,7 @@ int main() {
 
 	Log log;
 
-	log.setLevel(log.infoLevel);
+	log.setLevel(Log::Info);
 
 	log.info("it works");
 

@@ -1,7 +1,8 @@
 #pragma once
+#include"classes.cpp"
 
 void pointerExample();
 
 void referenceExample();
 
-#include"classes.cpp"
+void enumExample();
