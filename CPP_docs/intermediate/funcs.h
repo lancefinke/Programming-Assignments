@@ -1,5 +1,6 @@
 #pragma once
 #include"classes.cpp"
+#include"entity.cpp"
 
 void pointerExample();
 
