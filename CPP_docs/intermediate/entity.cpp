@@ -9,6 +9,8 @@ public:
 		y = b;
 	}
 
+	Entity() : x(0), y(0) {}//another way to create constructor
+
 	~Entity() { //destrcutor, automatically called
 		std::cout << "Destroyed Entity" << std::endl;
 	}
