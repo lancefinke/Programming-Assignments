@@ -1,2 +1,4 @@
-﻿  smartPointers.cpp
+﻿  vectores.cpp
+C:\Users\lance\OneDrive\Desktop\College\UH\Programming Assignments\CPP_docs\data_types\vectores.cpp(10,8): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\lance\OneDrive\Desktop\College\UH\Programming Assignments\CPP_docs\data_types\vectores.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   data_types.vcxproj -> C:\Users\lance\OneDrive\Desktop\College\UH\Programming Assignments\CPP_docs\basics\x64\Debug\data_types.exe

@@ -3,9 +3,11 @@
 
 int main() {
 
-	arrayExample();
+	/*arrayExample();
 	stringExample();
 	stringLiterals();
 	keywords();
-	smartPointerExample();
+	smartPointerExample();*/
+
+	vectorExample();
 }

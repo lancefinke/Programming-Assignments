@@ -5,3 +5,4 @@ void stringExample();
 void stringLiterals();
 void keywords();
 void smartPointerExample();
+void vectorExample();
