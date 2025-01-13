@@ -133,6 +133,7 @@
     <ClCompile Include="arrays.cpp" />
     <ClCompile Include="keywords_initializers.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="smartPointers.cpp" />
     <ClCompile Include="strings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

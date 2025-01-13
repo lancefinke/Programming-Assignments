@@ -30,4 +30,6 @@ int main() {
 	e2->print();
 
 	e2->volume();
+
+	delete e2;
 }

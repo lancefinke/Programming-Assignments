@@ -32,5 +32,8 @@
     <ClCompile Include="keywords_initializers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="smartPointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

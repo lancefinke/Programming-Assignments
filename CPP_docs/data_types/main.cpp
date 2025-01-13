@@ -7,4 +7,5 @@ int main() {
 	stringExample();
 	stringLiterals();
 	keywords();
+	smartPointerExample();
 }

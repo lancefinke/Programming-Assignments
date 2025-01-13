@@ -5,8 +5,8 @@ public:
 	int x, y;
 
 	Entity(int a, int b) {//constructor
-		x = a;
-		y = b;
+		this->x = a;
+		this->y = b;
 	}
 
 	Entity() : x(0), y(0) {}//another way to create constructor
@@ -28,7 +28,7 @@ public:
 	int z;
 
 	Entity3D(int a, int b, int c) : Entity(a,b){
-		z = c;
+		this->z = c;
 	}
 
 	void print() override {
