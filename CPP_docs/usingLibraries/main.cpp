@@ -3,6 +3,7 @@
 #include <GLFW/glfw3.h>
 #include <thread>
 #include <chrono>
+#include "funcs.h"
 
 
 void error_callback(int error, const char* description)
@@ -14,7 +15,7 @@ void error_callback(int error, const char* description)
 
 int main() {
 
-	if (!glfwInit())
+	/*if (!glfwInit())
 	{
 		std::cout << "Init failed" << std::endl;
 	}
@@ -32,5 +33,9 @@ int main() {
 
 
 	
-	std::cin.get();
+	std::cin.get();*/
+
+	//threadExample();
+
+	timingExample();
 }

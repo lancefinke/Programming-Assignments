@@ -3,7 +3,7 @@
 
 int main() {
 
-	pointerExample();
+	//pointerExample();
 
 	referenceExample();
 

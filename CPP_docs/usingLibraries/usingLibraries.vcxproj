@@ -134,6 +134,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="threads.cpp" />
+    <ClCompile Include="timing.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funcs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
